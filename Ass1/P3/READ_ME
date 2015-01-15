@@ -1,0 +1,8 @@
+#	Name: Samara Drewe 4921860
+#	Project: Assignment 1, Program 3
+#	Function: This program inputs an address into google maps
+		and returns the longitude and latitude of the
+		address.
+#	To Run Type: python3 googlemap.py
+#	Expectations: You need to have a valid address that google 
+		maps can recognize or else it will return ZERO[0]

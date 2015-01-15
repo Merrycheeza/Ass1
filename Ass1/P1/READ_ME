@@ -1,0 +1,8 @@
+#	Name: Samara Drewe 4921860
+#	Project: Assignment 1, Program 1
+#	Function: A small program that calculates the number of numbers inputted, 
+#		  the total of the numbers inputted, and the mean of the numbers inputted
+#	To Run Type: python3 sum2.py
+#	Expectations: the program expects 1# per line; ctrl-d or ctrl-z to terminate
+
+

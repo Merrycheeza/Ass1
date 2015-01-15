@@ -1,0 +1,9 @@
+#	Name: Samara Drewe 4921860
+#	Project: Assignment 1, Program 4
+#	Function: Takes an address that's input and returns a json
+		structure giving the geographical details of the 
+		address
+#	To Run Type: python3 rawsocket.py
+#	Expectations: The program seems to take the first 5 digits of the
+		address and use it as a US zip code instead of taking the
+		complete address given.
